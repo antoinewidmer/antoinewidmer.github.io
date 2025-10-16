@@ -8,8 +8,7 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
+        IPC4MH - Immersive Prevention Center for Mental Health
       image:
         filename: welcome.jpg
       text: |
