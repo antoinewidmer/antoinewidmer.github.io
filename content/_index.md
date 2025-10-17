@@ -13,7 +13,7 @@ sections:
           align: center
           background:
             image:
-              filename: welcome.jpg
+              filename: ipclogo.png
               filters:
                 brightness: 0.6
             position: center
@@ -25,7 +25,7 @@ sections:
       title: |
         IPC4MH - Immersive Prevention Center for Mental Health
       image:
-        filename: welcome.jpg
+        filename: ipclogo.png
       text: |
         <br>
         
