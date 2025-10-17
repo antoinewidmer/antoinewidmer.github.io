@@ -25,7 +25,7 @@ sections:
         - name: "HES-SO Valais-Wallis (Coordinator)"
           description: "MR development, coordination."
           link: "https://www.hevs.ch/"
-          image: "media/partners/HESSOlogo.png"
+          image: "partners/HESSOlogo.png"
 
         - name: "Nantes Université"
           description: "User experience research"
