@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/consortium/_index.md",
                 "mode": "source",
                 "source": true
               },
@@ -74,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -95,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/consortium/_index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/consortium/_index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -143,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/consortium/_index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -172,6 +171,19 @@
   },
   "active": "c7c004c1da83c1d9",
   "lastOpenFiles": [
+    "assets/media/partners/poland_logo.png",
+    "assets/media/partners/poland_logo.png.crdownload",
+    "assets/media/partners/diverssitylogo.png",
+    "assets/media/partners/logoC2Care.png",
+    "content/consortium/_index.md",
+    "assets/media/partners/CHUNantesLogo.png",
+    "assets/media/partners/LogoNantesU.png",
+    "assets/media/partners/HESSOlogo.png",
+    "assets/media/partners/HESSOvs_pictos_rvb.png",
+    "assets/media/partners",
+    "assets/media/New folder",
+    "content/_index.md",
+    "content/consortium",
     "content/contact/index.md",
     "README.md",
     "preview.png",
@@ -183,8 +195,6 @@
     "assets/media/ipclogo.png",
     "assets/media/welcome.jpg",
     "assets/media/icon.png",
-    "assets/media/contact.jpg",
-    "assets/media/coders.jpg",
     "content/authors/吳恩達/_index.md"
   ]
 }

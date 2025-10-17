@@ -1,0 +1,75 @@
+---
+title: "Consortium"
+type: landing       # lets you compose the page with blocks
+url: "/consortium/"
+aliases: ["/partners/"]
+
+sections:
+
+  - block: markdown
+    id: intro
+    content:
+      title: "Consortium"
+      text: |
+        IPC4MH brings together complementary expertise spanning **XR**, **sensing**, **AI/analytics**, and **clinical validation**.
+        Below are the core partners and roles. For Principal Investigators, see the *Team* section.
+    design:
+      columns: '1'
+
+  - block: features
+    id: partners
+    content:
+      title: "Core Partners"
+      subtitle: "Click a logo to visit the institution"
+      items:
+        - name: "HES-SO Valais-Wallis (Coordinator)"
+          description: "XR & AI (computer vision), coordination."
+          link: "https://www.hevs.ch/"
+          icon: building
+          image: "media/partners/HESSOlogo.png"
+
+        - name: "Nantes Université"
+          description: "User exeperience research"
+          link: "https://www.univ-nantes.fr/"
+          icon: cpu
+          image: "media/partners/LogoNantesU.png"
+
+        - name: "CHU Nantes"
+          description: "Clinical expertise & validation."
+          link: "https://www.chuv.ch/"
+          icon: stethoscope
+          image: "media/partners/CHUNantesLogo.png"
+        
+        - name: "C2Care"
+          description: "SME expert in VR experiences for seniors."
+          link: "https://www.c2.care/"
+          icon: cpu
+          image: "media/partners/logoC2Care.png"
+        
+        - name: "DiverSsity"
+          description: "SME expert in MR experiences for neurodiverse teens."
+          link: "https://www.diverssity.io/"
+          icon: cpu
+          image: "media/partners/diverssitylogo.png"
+        
+        - name: "Institute of Psychology, Polish Academy of Science"
+          description: "Neuropsychology."
+          link: "https://babylab.edu.pl/dr-hab-przemyslaw-tomalski"
+          icon: cpu
+          image: "media/partners/poland_logo.png"
+
+    design:
+      columns: 3
+      spacing: lg
+
+  - block: markdown
+    id: roles
+    content:
+      title: "Roles & Responsibilities"
+      text: |
+        - **HES-SO Valais-Wallis (Coord.)** — Project management, mixed reality environments, computer vision pipelines, data governance.
+        - **CSEM** — Sensor design & integration (neuromorphic/event-based eye tracking), hardware–software interfaces.
+        - **CHUV Autism Center** — Clinical protocols, recruitment, acceptability & safety, clinical validation.
+    design:
+      columns: '1'
+---
