@@ -24,7 +24,7 @@ sections:
       text: |
             | <a href="https://www.hevs.ch" target="_blank"><img src="/uploads/partners/HESSOlogo.png" width="300"> </a> | <a href="https://www.univ-nantes.fr/" target="_blank"><img src="/uploads/partners/LogoNantesU.png" width="300"> </a>  | <a href="https://www.univ-nantes.fr/" target="_blank"><img src="/uploads/partners/CHUNantesLogo.png" width="300"> </a>|
             | ----------------------- | -------------------------- | ---------------------- |
-            | <a href="https://www.univ-nantes.fr/" target="_blank"><img src="/uploads/partners/logoC2Care.png" width="300"> </a> | <a href="https://www.univ-nantes.fr/" target="_blank"><img src="/uploads/partners/diverssitylogo.png" width="300"> </a> | <a href="https://www.univ-nantes.fr/" target="_blank"><img src="/uploads/partners/poland_logo.png" width="300"> </a>  |
+            | <a href="https://www.c2.care/" target="_blank"><img src="/uploads/partners/logoC2Care.png" width="300"> </a> | <a href="https://www.diverssity.io/" target="_blank"><img src="/uploads/partners/diverssitylogo.png" width="300"> </a> | <a href="https://pan.pl/en/about-us/" target="_blank"><img src="/uploads/partners/poland_logo.png" width="300"> </a>  |
 
 
   - block: markdown

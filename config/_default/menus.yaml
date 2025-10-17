@@ -10,12 +10,3 @@ main:
   - name: Consortium
     url: "consortium"
     weight: 20
-  - name: Work Packages
-    url: "work-packages"
-    weight: 30
-  - name: Publications
-    url: "publication"
-    weight: 40
-  - name: News
-    url: "news"
-    weight: 50
