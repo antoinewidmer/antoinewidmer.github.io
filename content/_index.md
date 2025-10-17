@@ -79,12 +79,18 @@ sections:
     content:
       title: "Roles & Responsibilities"
       text: |
-        - **HES-SO Valais-Wallis (Coord.)** — Project management, mixed reality environments, data governance.
-        - **Nantes Université** — User Experience, Clinic for seniors.
-        - **CHU Nantes** — Clinical protocols, recruitment, acceptability & safety, clinical validation.
-        - **C2Care** — ...
-        - **DiverSsity** — ...
-        - **Polish Academy of Science** — ...
+        The **IPC4MH consortium** brings together clinical, academic, and industrial partners with
+        complementary expertise to ensure rigorous research, ethical deployment, and sustainable
+        impact.  
+
+        - **HES-SO Valais-Wallis (Switzerland)** — *Coordinator*: Overall project governance, data protection oversight, dissemination, impact, and scale-up activities.  
+        - **Nantes Université — LS2N (France)** — *WP2 Lead*: Co-design and requirements engineering; user research and interoperability standards.  
+        - **CHU Nantes (France)** — *WP4 Co-Lead*: Clinical content packaging, safety protocols, facilitator training, and evaluation for the senior archetype.  
+        - **Institute of Psychology, Polish Academy of Sciences (Poland)** — *WP5 Lead*: Junior pilot leadership, mixed-methods evaluation, and methodological guidance.  
+        - **C2Care (France)** — *WP3 Lead*: Platform development, XR content integration, identity/session services, interoperability adapters.  
+        - **DiverSSity SA (Switzerland)** — *SME Partner*: Dissemination, communication, and technology transfer for educational and therapeutic settings.  
+
+        Each partner leads specific **Work Packages (WPs)** while contributing to cross-cutting activities such as ethics, dissemination, and pilot evaluations.
     design:
       columns: '1'
 
