@@ -18,8 +18,6 @@ sections:
 
   - block: hero
     content:
-      title: |
-        IPC4MH - Immersive Prevention Center for Mental Health
       image:
         filename: vrheadset.png
       text: |
