@@ -22,7 +22,7 @@ sections:
       title: "Core Partners"
       subtitle: "Click a logo to visit the institution"
       text: |
-            | <img src="/uploads/partners/HESSOlogo.png" width="100" height="100"> | ![200](/uploads/partners/LogoNantesU.png)    | ![](/uploads/partners/CHUNantesLogo.png) |
+            | <a href="https://www.hevs.ch"><img src="/uploads/partners/HESSOlogo.png" width="300"> </a> | ![200](/uploads/partners/LogoNantesU.png)    | ![](/uploads/partners/CHUNantesLogo.png) |
             | ----------------------- | -------------------------- | ---------------------- |
             | ![200](/uploads/partners/logoC2Care.png)  | ![200](/uploads/partners/diverssitylogo.png) | ![](/uploads/partners/poland_logo.png)   |
 
