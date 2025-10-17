@@ -16,12 +16,5 @@ sections:
         
         IPC4MH is shaping the future of mental health prevention through immersive environments, advanced sensing, and human-centred innovation.
   
-  - block: markdown
-    content:
-      title:
-      subtitle:
-      text: |
-        {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
-    design:
-      columns: '1'
+  
 ---
