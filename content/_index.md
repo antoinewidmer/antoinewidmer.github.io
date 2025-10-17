@@ -92,7 +92,8 @@ sections:
     content:
       title: |
         Funding
-      image: "uploads/partners/THCS_logo.jpg"
+      image:
+        filename:THCS_logo.jpg
       text: |
         <br>
         Supported under the THCS Partnership; views expressed are those of the authors.
