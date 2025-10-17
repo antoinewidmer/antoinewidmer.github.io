@@ -22,23 +22,23 @@ sections:
       title: "At a glance"
       items:
         - icon: calendar
-          title: "Duration"
-          text: "36 months"
+          name: "Duration"
+          description: "36 months"
         - icon: globe
-          title: "Countries"
-          text: "Switzerland • France • Poland"
+          name: "Countries"
+          description: "Switzerland • France • Poland"
         - icon: map
-          title: "Sites"
-          text: "Sierre (CH), Nantes (FR), Warsaw (PL)"
+          name: "Sites"
+          description: "Sierre (CH), Nantes (FR), Warsaw (PL)"
         - icon: users
-          title: "Populations"
-          text: "Junior (NDD) • Senior (depressive/cognitive frailty)"
+          name: "Populations"
+          description: "Junior (NDD) • Senior (depressive/cognitive frailty)"
         - icon: layers
-          title: "Work Packages"
-          text: "WP1–WP6"
+          name: "Work Packages"
+          description: "WP1–WP6"
         - icon: file-text
-          title: "Public Deliverables"
-          text: "Open PDFs & DOIs"
+          name: "Public Deliverables"
+          description: "Open PDFs & DOIs"
     design:
       columns: "3"
 
