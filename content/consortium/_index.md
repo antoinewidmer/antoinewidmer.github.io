@@ -60,16 +60,18 @@ sections:
 
     design:
       columns: 3
-      spacing: lg
 
   - block: markdown
     id: roles
     content:
       title: "Roles & Responsibilities"
       text: |
-        - **HES-SO Valais-Wallis (Coord.)** — Project management, mixed reality environments, computer vision pipelines, data governance.
-        - **CSEM** — Sensor design & integration (neuromorphic/event-based eye tracking), hardware–software interfaces.
-        - **CHUV Autism Center** — Clinical protocols, recruitment, acceptability & safety, clinical validation.
+        - **HES-SO Valais-Wallis (Coord.)** — Project management, mixed reality environments, data governance.
+        - **Nantes Université** — User Experience, Clinic for seniors.
+        - **CHU Nantes** — Clinical protocols, recruitment, acceptability & safety, clinical validation.
+        - **C2Care** — ...
+        - **DiverSsity** — ...
+        - **Polish Academy of Science** — ...
     design:
       columns: '1'
 ---
