@@ -18,3 +18,4 @@ assets/jsconfig.json
 .obsidian/appearance.json       # Local theme & appearance preferences
 .obsidian/plugins/*/data.json   # Plugin user data (can vary per user)
 .obsidian/plugins/*/manifest.json # Optional: ignore manifests if plugins are installed locally
+/.obsidian
