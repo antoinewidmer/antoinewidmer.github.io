@@ -18,6 +18,7 @@ sections:
 
   - block: hero
     content:
+      title: |
       image:
         filename: vrheadset.png
       text: |
