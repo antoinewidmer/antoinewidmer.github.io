@@ -64,16 +64,6 @@ sections:
         replacing them.
 
   - block: markdown
-    id: intro
-    content:
-      title: "Consortium"
-      text: |
-        IPC4MH brings together complementary expertise spanning **XR**, **sensing**, **AI/analytics**, and **clinical validation**.
-        Below are the core partners and roles. For Principal Investigators, see the *Team* section.
-    design:
-      columns: '1'
-
-  - block: markdown
     id: partners
     content:
       title: "Core Partners"
