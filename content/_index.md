@@ -23,6 +23,7 @@ sections:
         filename: vrheadset.png
       text: |
         <br>
+        
         By combining immersive group sessions, individualized exercises, and interoperable digital infrastructures, IPC4MH seeks to **extend clinical capacity**, **improve accessibility** for vulnerable populations, and **generate robust evidence** on acceptability, usability, and clinical impact across multiple European contexts.
         
   - block: features
@@ -62,5 +63,39 @@ sections:
         accessibility, and evidence**—integrating with established care pathways rather than
         replacing them.
 
+  - block: markdown
+    id: intro
+    content:
+      title: "Consortium"
+      text: |
+        IPC4MH brings together complementary expertise spanning **XR**, **sensing**, **AI/analytics**, and **clinical validation**.
+        Below are the core partners and roles. For Principal Investigators, see the *Team* section.
+    design:
+      columns: '1'
+
+  - block: markdown
+    id: partners
+    content:
+      title: "Core Partners"
+      subtitle: "Click a logo to visit the institution"
+      text: |
+            | <a href="https://www.hevs.ch" target="_blank"><img src="/uploads/partners/HESSOlogo.png" width="300"> </a> | <a href="https://www.univ-nantes.fr/" target="_blank"><img src="/uploads/partners/LogoNantesU.png" width="300"> </a>  | <a href="https://www.univ-nantes.fr/" target="_blank"><img src="/uploads/partners/CHUNantesLogo.png" width="300"> </a>|
+            | ----------------------- | -------------------------- | ---------------------- |
+            | <a href="https://www.c2.care/" target="_blank"><img src="/uploads/partners/logoC2Care.png" width="300"> </a> | <a href="https://www.diverssity.io/" target="_blank"><img src="/uploads/partners/diverssitylogo.png" width="300"> </a> | <a href="https://pan.pl/en/about-us/" target="_blank"><img src="/uploads/partners/poland_logo.png" width="300"> </a>  |
+
+
+  - block: markdown
+    id: roles
+    content:
+      title: "Roles & Responsibilities"
+      text: |
+        - **HES-SO Valais-Wallis (Coord.)** — Project management, mixed reality environments, data governance.
+        - **Nantes Université** — User Experience, Clinic for seniors.
+        - **CHU Nantes** — Clinical protocols, recruitment, acceptability & safety, clinical validation.
+        - **C2Care** — ...
+        - **DiverSsity** — ...
+        - **Polish Academy of Science** — ...
+    design:
+      columns: '1'
 
 ---
