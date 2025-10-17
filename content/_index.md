@@ -5,21 +5,6 @@ date: 2022-10-24
 type: landing
 
 sections:
-  - block: slider
-    content:
-      slides:
-        - title: 👋 Welcome to IPC4MH
-          content: Developing immersive prevention centers for mental health promotion and early detection.
-          align: center
-          background:
-            image:
-              filename: ipclogo.png
-              filters:
-                brightness: 0.6
-            position: center
-    design:
-      is_fullscreen: true
-
   - block: hero
     content:
       title: |
