@@ -5,3 +5,16 @@
 /resources/
 public/
 assets/jsconfig.json
+
+
+# Obsidian-specific system files
+.obsidian/workspace.json        # UI layout (user-specific)
+.obsidian/workspace-mobile.json # Mobile UI layout
+.obsidian/plugins/obsidian-git/data.json # Git plugin's local state
+.obsidian/plugins/obsidian-git/lastBackupDate.json
+
+# Cache and temporary files
+.obsidian/cache/
+.obsidian/appearance.json       # Local theme & appearance preferences
+.obsidian/plugins/*/data.json   # Plugin user data (can vary per user)
+.obsidian/plugins/*/manifest.json # Optional: ignore manifests if plugins are installed locally
