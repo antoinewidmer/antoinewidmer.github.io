@@ -22,9 +22,9 @@ sections:
       title: "Core Partners"
       subtitle: "Click a logo to visit the institution"
       text: |
-            | ![200](uploads/partners/HESSOlogo.png) | ![200](uploads/partners/LogoNantesU.png)    | ![](uploads/partners/CHUNantesLogo.png) |
+            | ![200](/uploads/partners/HESSOlogo.png) | ![200](/uploads/partners/LogoNantesU.png)    | ![](/uploads/partners/CHUNantesLogo.png) |
             | ----------------------- | -------------------------- | ---------------------- |
-            | ![200](uploads/partners/logoC2Care.png)  | ![200](uploads/partners/diverssitylogo.png) | ![](uploads/partners/poland_logo.png)   |
+            | ![200](/uploads/partners/logoC2Care.png)  | ![200](/uploads/partners/diverssitylogo.png) | ![](/uploads/partners/poland_logo.png)   |
 
 
   - block: markdown
