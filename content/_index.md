@@ -14,7 +14,8 @@ sections:
       text: |
         <br>
         
-        IPC4MH is shaping the future of mental health prevention through immersive environments, advanced sensing, and human-centred innovation.
+        **IPC4MH** (Immersive Prevention Centers for Mental Health) is a European research and innovation project that aims to **design**, **deploy**, and **evaluate** virtual prevention centers using *social virtual reality (VR)* to enhance access to mental health screening and early interventions. By combining immersive group sessions, individualized exercises, and interoperable digital infrastructures, IPC4MH seeks to **extend clinical capacity**, **improve accessibility** for vulnerable populations, and **generate robust evidence** on acceptability, usability, and clinical impact across multiple European contexts.
+
 
   - block: features
     id: quick-facts
@@ -41,5 +42,17 @@ sections:
           description: "Open PDFs & DOIs"
     design:
       columns: "3"
+      
+  - block: markdown
+    id: value-proposition
+    content:
+      title: "Why IPCs?"
+      text: |
+        Health systems face long waiting times and fragmented access to mental-health services.
+        **Immersive Prevention Centers (IPCs)** extend clinical capacity by combining supervised
+        group sessions in social VR with guided home exercises. IPC4MH focuses on **safety,
+        accessibility, and evidence**—integrating with established care pathways rather than
+        replacing them.
+
 
 ---
