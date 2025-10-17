@@ -88,4 +88,11 @@ sections:
     design:
       columns: '1'
 
+ - block: logos
+    id: partners
+    content:
+      title: "Funding & partners"
+      subtitle: "Supported under the THCS Partnership; views expressed are those of the authors."
+      logos:
+        - image: "uploads/partners/THCS_logo.jpg"
 ---
