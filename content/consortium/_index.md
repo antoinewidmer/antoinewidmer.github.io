@@ -16,7 +16,7 @@ sections:
     design:
       columns: '1'
 
-  - block: features
+  - block: collection
     id: partners
     content:
       title: "Core Partners"
