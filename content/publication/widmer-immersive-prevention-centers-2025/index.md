@@ -5,7 +5,7 @@ authors:
 - Antoine Widmer
 - Samuel Bulteau
 - Roman Malo
-- Paul Matusz
+- Pawel Matusz
 - Noah Richert
 - Jean-Philippe Rivière
 - Przemyslaw Tomalski

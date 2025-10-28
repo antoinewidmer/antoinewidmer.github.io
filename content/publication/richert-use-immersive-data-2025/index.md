@@ -24,6 +24,7 @@ abstract: With the growing demand for accessible and scalable mental health care
   The interdisciplinary approach brings XR, Artificial Intelligence (AI) and clinical
   expertise together to build a foundation for scalable and interactive mental health
   support systems.
+url_pdf: https://hal.science/hal-05332785v1/document
 tags:
 - artificial intelligence
 - biometric data
