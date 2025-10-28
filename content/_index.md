@@ -7,8 +7,7 @@ type: landing
 sections:
   - block: hero
     content:
-      title: | 
-		IPC4MH — Immersive Prevention Centers for Mental Health
+      title: IPC4MH — Immersive Prevention Centers for Mental Health
       image:
         filename: ipclogo.png
       text: |
