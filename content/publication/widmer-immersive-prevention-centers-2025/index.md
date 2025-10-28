@@ -26,6 +26,7 @@ abstract: 'Mental health systems across Europe face persistent challenges in acc
   support early intervention and long-term mental health care. This paper presents
   the conceptual foundation, objectives, research direction, and methodological approach
   of IPC4MH.'
+url_pdf: https://hal.science/hal-05109243v1/document
 tags:
 - aging
 - co-design
