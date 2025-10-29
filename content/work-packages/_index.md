@@ -1,18 +1,37 @@
 ---
 title: "Work Packages"
-description: "Overview of IPC4MH Work Packages (verbatim snippets; see individual pages for full text)."
+description: "Overview of IPC4MH Work Packages. Each Work Package (WP) contributes a distinct aspect to the design, development, evaluation, and dissemination of Immersive Prevention Centers for Mental Health."
 url: "/work-packages/"
 weight: 30
 ---
 
-Below are one‑sentence verbatim snippets for quick orientation. Follow the links for the full text.
+## Overview
 
-- [WP1 — Project Management](/work-packages/wp1/): > FP2024-id: 3230 - Created on 6/17/2024, 5:27:43 PM - page 46/88 For project management, WP1 will provide overall coordination and ensure timely completion of project activities through regular meetings, progress monitoring, risk mitigation, and alignment among all partners.
-- [WP2 — Co‑creation and Design](/work-packages/wp2/): > FP2024-id: 3230 - Created on 6/17/2024, 5:27:43 PM - page 49/88 G.
-- [WP3 — Core Technology](/work-packages/wp3/): > FP2024-id: 3230 - Created on 6/17/2024, 5:27:43 PM - page 50/88 WP3 will focus on defining the general architecture and selecting the necessary technologies for implementation.
-- [WP4 — Implementation of IPCs](/work-packages/wp4/): > FP2024-id: 3230 - Created on 6/17/2024, 5:27:43 PM - page 52/88 Task 4.1 will be dedicated to adapting C2Care and Diverssity existing standalone VR/MR environments so that they can be used in a Metaverse prevention center, in accordance with the decision taken in WP2.
-- [WP5 — Evaluation (Junior)](/work-packages/wp5/): > FP2024-id: 3230 - Created on 6/17/2024, 5:27:43 PM - page 56/88 Evaluations will be conducted in two phases of 6 months: Phase 1 (IPC V1) will focus on usability, feasibility and acceptab- ility; Phase 2 (IPC V2) will focus on acceptance and efficacy.
-- [WP6 — Evaluation (Senior)](/work-packages/wp6/): > FP2024-id: 3230 - Created on 6/17/2024, 5:27:43 PM - page 57/88 G.
-- [WP7 — Dissemination & Scale‑Up](/work-packages/wp7/): > FP2024-id: 3230 - Created on 6/17/2024, 5:27:43 PM - page 58/88 Task 7.1 involves creating and executing a comprehensive strategy to promote the project.
+The IPC4MH project is organized into seven interconnected **Work Packages (WPs)** that span coordination, co-design, technology development, implementation, evaluation, and dissemination.  
+Each WP contributes unique expertise and deliverables, ensuring scientific rigor, ethical compliance, and technological innovation.  
+Follow the links below for detailed descriptions of each work package.
 
-_Source: FullProposal.pdf, pp. 44–59 / 88_
+---
+
+### [WP1 — Project Management](/work-packages/wp1/)
+Ensures overall project coordination, progress monitoring, risk mitigation, and compliance with ethical and data management standards across all partners.
+
+### [WP2 — Co-creation and Design](/work-packages/wp2/)
+Develops a shared vision and participatory design framework for immersive prevention centers through ethnographic research and co-creation with practitioners, patients, and industry partners.
+
+### [WP3 — Core Technology](/work-packages/wp3/)
+Defines the architecture, APIs, and data frameworks enabling interoperable, multi-user immersive prevention centers, leveraging existing industrial VR/MR assets.
+
+### [WP4 — Implementation of IPCs](/work-packages/wp4/)
+Builds and iteratively refines three operational IPC prototypes—two for adolescents and one for seniors—integrating adapted VR/MR activities and conducting user-centered testing.
+
+### [WP5 — Evaluation (Junior)](/work-packages/wp5/)
+Evaluates usability, feasibility, and efficacy of the junior IPCs for adolescents with neurodevelopmental disorders through multi-site studies in Switzerland and Poland.
+
+### [WP6 — Evaluation (Senior)](/work-packages/wp6/)
+Assesses usability, acceptance, and clinical impact of the senior IPC for patients with neurodegenerative conditions via phased evaluations combining behavioral, clinical, and system data.
+
+### [WP7 — Dissemination, Exploitation, and Communication](/work-packages/wp7/)
+Promotes project outcomes, supports large-scale adoption, develops sustainable business models, and disseminates scientific findings to the broader research and healthcare communities.
+
+---
