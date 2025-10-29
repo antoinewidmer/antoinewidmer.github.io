@@ -11,3 +11,4 @@ The IPC4MH project is organized into seven interconnected **Work Packages (WPs)*
 Each WP contributes unique expertise and deliverables, ensuring scientific rigor, ethical compliance, and technological innovation.  
 Follow the links below for detailed descriptions of each work package.
 
+---
