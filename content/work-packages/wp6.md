@@ -4,8 +4,6 @@ url: "/work-packages/wp6/"
 weight: 60
 ---
 
-## WP6 — Evaluation (Senior)
-
 ### Overview
 
 WP6 focuses on the **evaluation of the Immersive Prevention Center (IPC)** designed for **senior patients with neurodegenerative impairments**, assessing both patient and practitioner perspectives.  

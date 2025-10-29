@@ -4,8 +4,6 @@ url: "/work-packages/wp4/"
 weight: 40
 ---
 
-## WP4 — Implementation of IPCs
-
 ### Overview
 
 WP4 is dedicated to the **implementation and iterative development** of three fully functional Immersive Prevention Centers (IPCs):  

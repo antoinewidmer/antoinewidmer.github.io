@@ -4,8 +4,6 @@ url: "/work-packages/wp2/"
 weight: 20
 ---
 
-## WP2 — Co-creation and Design
-
 ### Overview
 
 WP2 focuses on the **co-creation and participatory design** of several Immersive Prevention Centers (IPCs) that will later be implemented and evaluated.  

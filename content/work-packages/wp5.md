@@ -4,8 +4,6 @@ url: "/work-packages/wp5/"
 weight: 50
 ---
 
-## WP5 — Evaluation (Junior)
-
 ### Overview
 
 WP5 focuses on the **evaluation of Immersive Prevention Centers (IPCs)** designed for adolescents with **neurodevelopmental disorders (NDDs)**.  

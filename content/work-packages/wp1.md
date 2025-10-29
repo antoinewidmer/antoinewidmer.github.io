@@ -4,8 +4,6 @@ url: "/work-packages/wp1/"
 weight: 10
 ---
 
-## WP1 — Project Management
-
 ### Overview
 
 WP1 ensures overall coordination, timely completion of project activities, and consistent communication across all partners. It includes project monitoring, ethics management, and FAIR data management aligned with GDPR and Horizon Europe standards.

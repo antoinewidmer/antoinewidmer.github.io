@@ -4,8 +4,6 @@ url: "/work-packages/wp7/"
 weight: 70
 ---
 
-## WP7 — Dissemination, Exploitation, and Communication
-
 ### Overview
 
 WP7 ensures that the project’s **results, tools, and methodologies** achieve visibility, sustainability, and real-world adoption.  

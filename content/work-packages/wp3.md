@@ -4,8 +4,6 @@ url: "/work-packages/wp3/"
 weight: 30
 ---
 
-## WP3 — Core Technology
-
 ### Overview
 
 WP3 focuses on defining the **technological foundation** and **architectural framework** required to implement both the junior and senior Immersive Prevention Centers (IPCs).  
