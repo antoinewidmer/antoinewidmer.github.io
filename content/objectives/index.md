@@ -1,89 +1,80 @@
 ---
 title: "Impacts & Objectives"
-description: "IPC4MH aims to develop immersive prevention centers that enhance mental health promotion through XR, AI, and multimodal sensing. This page summarises the project’s main objectives and their expected scientific, societal, and policy impacts."
+description: "The objectives and expected impacts of IPC4MH, as defined in the project proposal."
 weight: 20
-keywords: ["IPC4MH", "mental health", "XR", "AI", "prevention", "impacts", "objectives", "Horizon Europe", "THCS"]
+keywords: ["IPC4MH", "objectives", "impacts", "XR", "mental health", "AI", "THCS"]
 ---
 
-## Executive Summary
-**IPC4MH (Immersive Prevention Centers for Mental Health)** seeks to address the growing demand for scalable, accessible, and evidence-based mental-health prevention solutions.  
-The project integrates **Extended Reality (XR)** environments with **sensing technologies** and **AI analytics** to foster early detection, self-awareness, and behavioural regulation across diverse user archetypes.  
-Through a co-design process involving clinicians, researchers, patients, and technology partners, IPC4MH aims to demonstrate how immersive, data-driven interventions can complement existing healthcare pathways and promote resilience.
+## Project Objectives
 
----
+IPC4MH pursues the following specific objectives:
 
-## Objectives
-The project is structured around five interconnected objectives:
+**O1 – To establish an evidence-based framework for immersive prevention centres.**  
+This objective focuses on identifying user needs, ethical guidelines, and clinical requirements for XR-based mental-health prevention. It includes the analysis of target populations, prevention goals, and evaluation criteria to ensure feasibility, safety, and inclusion.
 
-**O1 — Evidence-based co-design of immersive prevention scenarios.**  
-Engage multidisciplinary stakeholders to define user needs, ethical principles, and interoperability requirements for XR-based mental-health prevention.
+**O2 – To develop an integrated XR platform for multimodal prevention and monitoring.**  
+This includes designing and implementing a modular technological platform that integrates sensing, XR content, and data analytics for real-time monitoring of user engagement and wellbeing indicators.
 
-**O2 — Development of a modular XR platform for multimodal sensing and analytics.**  
-Design and implement a flexible architecture integrating physiological, behavioural, and contextual data streams to support real-time monitoring and adaptive feedback.
+**O3 – To design and validate responsible AI models for mental-health support.**  
+IPC4MH will train and validate interpretable AI models for affective and behavioural data, enabling personalised feedback, adaptation of preventive exercises, and explainable recommendations, aligned with ethical and GDPR principles.
 
-**O3 — Responsible AI for personalised and explainable mental-health support.**  
-Train and validate interpretable AI models for affective state estimation, engagement analysis, and prevention pattern identification while ensuring transparency and bias control.
+**O4 – To conduct multi-site pilots addressing different user archetypes.**  
+Two pilots will be carried out: one targeting younger users (junior archetype) and one focusing on older adults (senior archetype). Each pilot will assess feasibility, usability, engagement, and effectiveness through validated psychological and behavioural measures.
 
-**O4 — Clinical and psychosocial validation in multi-site pilots.**  
-Deploy and evaluate IPC4MH in two archetypes — *junior* (adolescents and young adults) and *senior* (older adults) — measuring feasibility, acceptability, and early efficacy through mixed-methods evaluation.
-
-**O5 — Dissemination, capacity building, and sustainability.**  
-Promote knowledge transfer across healthcare, education, and policy ecosystems through open-access dissemination, training materials, and exploitation roadmaps.
+**O5 – To ensure dissemination, exploitation, and sustainability.**  
+IPC4MH will deliver open-access materials, training resources, and exploitation strategies to foster long-term sustainability of prevention centres beyond the project duration.
 
 ---
 
 ## Expected Impacts
 
-### I1 — Enhanced access to preventive mental-health services
-IPC4MH will reduce geographical and social barriers to early intervention through scalable XR-based solutions deployable in clinics, schools, and community settings.
+According to the proposal, IPC4MH will contribute to the following impacts:
 
-### I2 — Improved engagement and adherence
-Immersive environments and adaptive feedback mechanisms will foster sustained user motivation, leading to better adherence compared with traditional prevention programmes.
+**I1 – Improved accessibility of mental-health prevention services.**  
+By providing XR-based prevention environments deployable in community, educational, and healthcare settings, IPC4MH increases reach and inclusion, particularly for underserved populations.
 
-### I3 — Strengthened digital and clinical capacities
-Training clinicians and facilitators in XR and AI tools will enhance digital literacy, while cross-sector collaboration will improve multidisciplinary competences in prevention and wellbeing.
+**I2 – Enhanced engagement and adherence to preventive interventions.**  
+Through immersive, interactive, and adaptive XR experiences, IPC4MH promotes motivation, emotional regulation, and sustained participation.
 
-### I4 — Scientific and technological innovation
-IPC4MH will advance multimodal AI research for mental health by producing novel datasets, benchmarks, and validation studies. All publishable outcomes will follow open-science principles.
+**I3 – Strengthened digital capacity and multidisciplinary collaboration.**  
+The project builds capacity among clinicians, educators, and developers by introducing XR and AI tools for prevention, and fostering interdisciplinary learning across Europe.
 
-### I5 — Policy and standardisation impact
-By aligning with European frameworks on digital health ethics and interoperability, IPC4MH will contribute to emerging standards for responsible AI and mental-health technologies.
+**I4 – Scientific innovation in multimodal data and AI for prevention.**  
+IPC4MH generates new datasets and methodological advances in affective computing, multimodal sensing, and behaviour analytics applied to preventive mental-health contexts.
 
-### I6 — Long-term sustainability and adoption
-The project will deliver validated use cases, exploitation models, and cost-benefit evidence to support transfer to public services and SMEs, strengthening Europe’s preventive-health ecosystem.
+**I5 – Contribution to European digital-health policy and standardisation.**  
+The project aligns with EU ethical and technical frameworks, contributing to the development of standards for responsible AI, data governance, and interoperability in preventive healthcare.
 
----
-
-## Objective–Impact Traceability Matrix
-| Objective | Related Impacts | Illustrative Outputs |
-|------------|-----------------|----------------------|
-| **O1** | I1, I2 | Co-design guidelines, ethical charter, technical requirements |
-| **O2** | I2, I4, I6 | Modular XR platform, sensing integration, interoperability specifications |
-| **O3** | I2, I4, I5 | AI pipelines, model cards, explainability tools |
-| **O4** | I1, I3, I4 | Pilot protocols, feasibility and acceptability reports, anonymised datasets |
-| **O5** | I3, I5, I6 | Dissemination strategy, training materials, sustainability plan |
+**I6 – Sustainable and transferable prevention models.**  
+The results will inform long-term operational and business models supporting the replication of immersive prevention centres across EU member states.
 
 ---
 
 ## Key Performance Indicators (KPIs)
-| Domain | Target Indicator | Verification Source |
-|--------|------------------|---------------------|
-| **Reach** | ≥150 participants across pilots | Recruitment records |
-| **Engagement** | ≥70% session completion rate | Platform telemetry |
-| **Training** | ≥40 clinicians/facilitators trained | Attendance and evaluation forms |
-| **Scientific output** | ≥4 peer-reviewed publications, ≥2 open datasets | DOIs, repositories |
-| **Policy contribution** | ≥2 references in policy or standardisation documents | EU/WHO/ISO proceedings |
-| **Sustainability** | ≥1 pilot adoption post-project | MoUs, exploitation reports |
+
+The project proposal defines the following indicators and expected outcomes:
+
+| KPI | Description | Target / Verification |
+|------|--------------|-----------------------|
+| **KPI1** | Number of participants engaged in pilots | ≥150 across sites |
+| **KPI2** | Level of engagement and adherence | ≥70% session completion |
+| **KPI3** | Number of clinicians/facilitators trained | ≥40 |
+| **KPI4** | Scientific dissemination outputs | ≥4 peer-reviewed publications, ≥2 open datasets |
+| **KPI5** | Contributions to standards or policy | ≥2 |
+| **KPI6** | Post-project adoption | ≥1 active continuation site |
 
 ---
 
-## Ethical and Societal Considerations
-IPC4MH adopts a **Responsible Research and Innovation (RRI)** framework ensuring inclusivity, fairness, and privacy-preserving data management.  
-All procedures comply with **GDPR**, **ISO/IEC 82304-2**, and **WCAG 2.1 AA** accessibility standards.  
-An independent ethics board oversees consent, risk mitigation, and gender-sensitive analysis.
+## Alignment with THCS Expected Impacts
+
+IPC4MH directly supports THCS objectives by:
+- Strengthening health promotion and mental wellbeing through innovative digital tools.  
+- Enhancing integration between technology developers, clinical researchers, and end-users.  
+- Providing validated, sustainable frameworks for prevention and early intervention.  
+- Contributing to the European Research Area by sharing open, reproducible data and methods.
 
 ---
 
 ### Attribution
-*Co-funded by the European Union under the THCS Joint Programme (Grant Agreement No. XXXX). The views expressed are those of the authors only and do not necessarily reflect those of the European Union or the granting authority.*
 
+*This content reproduces material from the IPC4MH project proposal submitted under the THCS Joint Programme. Co-funded by the European Union. The views expressed are those of the consortium and do not necessarily reflect those of the European Union or the granting authority.*
