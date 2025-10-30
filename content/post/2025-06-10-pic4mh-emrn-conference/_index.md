@@ -5,7 +5,7 @@ authors: ["IPC4MH Consortium", "HES-SO Valais-Wallis", "Nantes Université"]
 summary: "Two IPC4MH studies were accepted for presentation at the II EMRN Conference 2025, highlighting advances in immersive data use and prevention strategies for mental health in the Metaverse."
 tags: ["publications", "conference", "metaverse", "mental health", "research dissemination"]
 image:
-  filename: "images/news/emrn-conference-2025.jpg"
+  filename: "alicanteAntoine.jpg"
   alt: "II EMRN Conference: Exploring the Intersection of AI and the Metaverse"
   caption: "The II EMRN Conference 2025 – Exploring the Intersection of AI and the Metaverse"
   focal_point: "center"
