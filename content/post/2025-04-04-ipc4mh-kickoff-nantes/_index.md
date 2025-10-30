@@ -1,32 +1,44 @@
 ---
-title: "IPC4MH Kick-off Meeting in Nantes, France"
+title: "IPC4MH Kick-off Meeting in Nantes: Shaping the Future of Mental Health Prevention"
 date: 2025-04-04
 authors: ["IPC4MH Coordination Team", "Nantes Université"]
-summary: "The IPC4MH consortium held its kick-off meeting from 2 to 4 April 2025 at Nantes Université, marking the official start of the three-year European project on immersive prevention centers for mental health."
+summary: "From 2 to 4 April 2025, the IPC4MH consortium officially launched its three-year European research initiative at Nantes Université, setting the stage for a new generation of immersive prevention centers for mental health."
 tags: ["kick-off", "mental health", "metaverse", "Horizon Europe", "IPC4MH"]
+image:
+  filename: "images/news/ipc4mh-kickoff-nantes.jpg"
+  alt: "IPC4MH consortium kick-off meeting at Nantes Université, 2–4 April 2025"
+  caption: "Kick-off meeting hosted by Nantes Université, gathering partners from Switzerland, France, and Poland."
+  focal_point: "center"
 ---
 
-## A Collaborative Start for IPC4MH
+## A Dynamic Start to a European Collaboration
 
-From **2 to 4 April 2025**, the partners of the *Immersive Prevention Centers for Mental Health (IPC4MH)* project gathered at **Nantes Université** for the official **kick-off meeting**.  
-The event marked the launch of this three-year European research initiative aiming to design and evaluate immersive prevention centers using **mixed reality** and **AI-driven data analysis** to support mental health and well-being across Europe.
+From **2 to 4 April 2025**, the partners of the *Immersive Prevention Centers for Mental Health (IPC4MH)* project convened at **Nantes Université** to launch an ambitious European initiative that merges **immersive technologies**, **artificial intelligence**, and **clinical science** to transform mental health prevention.
 
-## Building the Vision for Immersive Prevention Centers
+Over three days, researchers, clinicians, and industry partners worked side by side to establish a shared vision: to make mental health care more **accessible, personalized, and engaging** through virtual and mixed-reality environments that support prevention, training, and therapeutic guidance.
 
-During the three-day meeting, representatives from all partner institutions — **HES-SO Valais-Wallis**, **Nantes Université**, **CHU Nantes**, **C2Care**, **DiverSsiTy SA**, and the **Institute of Psychology of the Polish Academy of Sciences (IPPAS)** — discussed the project’s scientific, ethical, and technical foundations.  
-Sessions focused on:
-- Defining the **common vision** for Immersive Prevention Centers (IPCs);  
-- Establishing the **data governance and ethics frameworks**;  
-- Planning **WP2–WP4 implementation activities**;  
-- Preparing for the first **clinical evaluation phases** in Switzerland, France, and Poland.
+---
 
-## Strengthening European Collaboration
+## Designing the Future of Immersive Prevention Centers
 
-The meeting fostered strong collaboration among partners, emphasizing IPC4MH’s transdisciplinary nature — bridging **computer science**, **psychology**, **clinical medicine**, and **industrial innovation**.  
-Consortium members also outlined early dissemination activities and discussed alignment with European digital-health strategies.
+The meeting brought together experts from **HES-SO Valais-Wallis**, **Nantes Université**, **CHU Nantes**, **C2Care**, **DiverSsiTy SA**, and the **Institute of Psychology of the Polish Academy of Sciences (IPPAS)**.  
+Discussions focused on defining the project’s first milestones, including:
 
-> *“IPC4MH represents a decisive step towards accessible and personalized prevention in mental health through immersive technologies,”*  
-> said **Prof. Antoine Widmer**, project coordinator at HES-SO Valais-Wallis.
+- A **shared conceptual framework** for immersive prevention centers (IPCs);  
+- The **ethical and data governance** roadmap;  
+- Technical planning for **co-creation, implementation, and evaluation** phases;  
+
+Beyond coordination, the event offered an opportunity for hands-on technical demonstrations and early testing of immersive content and collaborative XR interfaces — illustrating the tangible progress toward the project’s long-term goal: a validated, interoperable ecosystem for digital mental health prevention.
+
+---
+
+## Building Bridges Across Disciplines and Borders
+
+The kick-off highlighted IPC4MH’s unique **transdisciplinary approach**, combining expertise in **computer science**, **psychology**, **clinical practice**, and **industrial innovation**.  
+Partners also outlined early dissemination and communication strategies to ensure transparency and long-term societal impact.
+
+> *“IPC4MH represents a decisive step toward accessible and personalized prevention in mental health through immersive technologies,”*  
+> emphasized **Prof. Antoine Widmer**, project coordinator at HES-SO Valais-Wallis.
 
 ---
 
