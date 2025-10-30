@@ -45,7 +45,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {2025} Antoine Widmer.'
+    notice: '© {2025} IPC4MH Consortium.'
     license:
       enable: true
       allow_derivatives: false
