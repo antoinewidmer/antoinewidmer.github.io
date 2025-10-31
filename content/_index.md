@@ -7,7 +7,7 @@ type: landing
 sections:
   - block: hero
     content:
-      title: "Immersive Prevention Centers for Mental Health"
+      title: Immersive Prevention Centers for Mental Health
 	  image:
         filename: ipclogo.png
       text: |
