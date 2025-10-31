@@ -29,7 +29,7 @@ sections:
 
   - block: hero
     content:
-      title: |
+      title: 
       image:
         filename: vrheadset.png
       text: |
