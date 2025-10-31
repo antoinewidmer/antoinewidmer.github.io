@@ -15,17 +15,17 @@ sections:
         **Countries:** 🇨🇭 Switzerland · 🇫🇷 France · 🇵🇱 Poland  
         **Coordinator:** HES-SO Valais-Wallis
 
-    buttons:
-      - text: "About the project"
-        url: "/about/"
-        style: primary
-      - text: "Consortium"
-        url: "/team/"
-        style: outline
+      buttons:
+        - text: "About the project"
+          url: "/about/"
+          style: primary
+        - text: "Consortium"
+          url: "/team/"
+          style: outline
 
-    image:
-       filename: THCS_Logo.jpg
-       alt: "Immersive digital health environment"
+      image:
+        filename: THCS_Logo.jpg
+        alt: "Immersive digital health environment"
 
 
   - block: hero
