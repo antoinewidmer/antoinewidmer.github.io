@@ -79,8 +79,7 @@ sections:
     content:
       title: "Latest news"
       text: "Follow the progress of IPC4MH: events, publications, evaluations."
-      source: "section"
-      section: "post"
+      content_type: "post"
       count: 3
       view: "compact"
     design:
