@@ -82,8 +82,8 @@ sections:
       content_type: "news"
       count: 3
 	  order_by: "date"
-      filters:
-        featured: true
+	  filters:
+	    featured: true
       view: "compact"
     design:
       columns: "1"
