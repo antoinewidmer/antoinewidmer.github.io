@@ -8,7 +8,6 @@ sections:
   - block: hero
     content:
       title: "Immersive Prevention Centers for Mental Health"
-      subtitle: "A European initiative to make mental-health prevention immersive, accessible, and clinically validated."
 	  image:
         filename: ipclogo.png
       text: |
