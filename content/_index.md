@@ -7,14 +7,27 @@ type: landing
 sections:
   - block: hero
     content:
-      title: IPC4MH — Immersive Prevention Centers for Mental Health
-      image:
-        filename: ipclogo.png
+      title: "Immersive Prevention Centers for Mental Health"
+      subtitle: "A European initiative to make mental-health prevention immersive, accessible, and clinically validated."
       text: |
-        <br>
-        
-        **IPC4MH** (Immersive Prevention Centers for Mental Health) is a European research and innovation project that aims to **design**, **deploy**, and **evaluate** virtual prevention centers using *social virtual reality (VR)* to enhance access to mental health screening and early interventions.
+        **IPC4MH (2025–2028)** develops and evaluates Metaverse-based prevention centers for mental health, combining **XR/MR**, **AI-driven behavioral analysis**, and **clinical co-design**.
 
+        **Countries:** 🇨🇭 Switzerland · 🇫🇷 France · 🇵🇱 Poland  
+        **Coordinator:** HES-SO Valais-Wallis
+
+    buttons:
+      - text: "About the project"
+        url: "/about/"
+        style: primary
+      - text: "Consortium"
+        url: "/team/"
+        style: outline
+
+    image:
+       filename: "THCS_Logo.jpg"
+       alt: "Immersive digital health environment"
+
+---
   - block: hero
     content:
       title: |
