@@ -7,9 +7,9 @@ type: landing
 sections:
   - block: hero
     content:
-      title: Immersive Prevention Centers for Mental Health
+	  title: Immersive Prevention Centers for Mental Health
 	  image:
-        filename: ipclogo.png
+	    filename: ipclogo.png
       text: |
         **IPC4MH (2025–2028)** develops and evaluates Metaverse-based prevention centers for mental health, combining **XR/MR**, **AI-driven behavioral analysis**, and **clinical co-design**.
 
