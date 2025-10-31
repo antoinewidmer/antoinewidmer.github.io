@@ -84,7 +84,7 @@ sections:
       count: 3
       view: "compact"
     design:
-    columns: "1"  
+      columns: "1"  
 	
   - block: hero
     content:
