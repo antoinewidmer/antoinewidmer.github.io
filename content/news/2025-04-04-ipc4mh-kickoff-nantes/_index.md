@@ -4,6 +4,7 @@ date: 2025-04-04
 authors: ["IPC4MH Coordination Team", "Nantes Université"]
 summary: "From 2 to 4 April 2025, the IPC4MH consortium officially launched its three-year European research initiative at Nantes Université, setting the stage for a new generation of immersive prevention centers for mental health."
 tags: ["kick-off", "mental health", "metaverse", "Horizon Europe", "IPC4MH"]
+featured: true
 image:
   filename: "ipc4mh-kickoff-nantes.jpg"
   alt: "IPC4MH consortium kick-off meeting at Nantes Université, 2–4 April 2025"
