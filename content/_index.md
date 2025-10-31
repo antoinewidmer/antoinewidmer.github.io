@@ -13,7 +13,6 @@ sections:
         **IPC4MH (2025–2028)** develops and evaluates Metaverse-based prevention centers for mental health, combining **XR/MR**, **AI-driven behavioral analysis**, and **clinical co-design**.
 
         **Countries:** 🇨🇭 Switzerland · 🇫🇷 France · 🇵🇱 Poland  
-        **Coordinator:** HES-SO Valais-Wallis
 
       buttons:
         - text: "About the project"
@@ -24,7 +23,7 @@ sections:
           style: outline
 
       image:
-        filename: THCS_Logo.jpg
+        filename: ipclogo.png
         alt: "Immersive digital health environment"
 
 
@@ -74,6 +73,19 @@ sections:
         group sessions in social VR with guided home exercises. IPC4MH focuses on **safety,
         accessibility, and evidence**—integrating with established care pathways rather than
         replacing them.
+		
+  - block: collection
+    id: latest-news
+    content:
+      title: "Latest news"
+      text: "Follow the progress of IPC4MH: events, publications, evaluations."
+      # adjusted to reflect your actual news location
+      source: "section"
+      section: "post"
+      count: 3
+      view: "compact"
+    design:
+    columns: "1"
         
   - block: hero
     content:
