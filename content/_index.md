@@ -24,10 +24,10 @@ sections:
         style: outline
 
     image:
-       filename: "THCS_Logo.jpg"
+       filename: THCS_Logo.jpg
        alt: "Immersive digital health environment"
 
----
+
   - block: hero
     content:
       title: |
