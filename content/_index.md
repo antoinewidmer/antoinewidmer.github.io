@@ -81,9 +81,9 @@ sections:
       text: "Follow the progress of IPC4MH: events, publications, evaluations."
       content_type: "news"
       count: 3
-	  order_by: "date"
-	  filters:
-	    featured: true
+      order_by: "date"
+      filters:
+        featured: true
       view: "compact"
     design:
       columns: "1"
