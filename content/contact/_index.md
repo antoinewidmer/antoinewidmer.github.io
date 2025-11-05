@@ -11,8 +11,9 @@ type: "page"
 
 For enquiries about the IPC4MH project, partnerships, or media, please use the form below.
 
-<form action="https://usebasin.com/f/5366e3b039fd" method="POST" accept-charset="UTF-8" class="form" netlify="false">
-  <!-- Accessibility & spam protection -->
+{{< rawhtml >}}
+<form action="https://usebasin.com/f/YOUR_BASIN_ENDPOINT" method="POST" accept-charset="UTF-8" class="form">
+  <!-- Honeypot -->
   <input type="text" name="company" tabindex="-1" autocomplete="off" style="position:absolute;left:-5000px;opacity:0" aria-hidden="true">
 
   <div class="grid" style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
@@ -43,9 +44,8 @@ For enquiries about the IPC4MH project, partnerships, or media, please use the f
       </label>
     </div>
 
-    <!-- Optional: custom subject shown in email notifications -->
     <input type="hidden" name="_subject" value="IPC4MH Contact Form Submission">
-    <!-- Optional: page to redirect on success (you can create /contact/thanks/) -->
+    <!-- Optional redirect -->
     <!-- <input type="hidden" name="_redirect" value="https://ipc4mh.eu/contact/thanks/"> -->
 
     <div style="grid-column:1 / -1;">
@@ -53,6 +53,8 @@ For enquiries about the IPC4MH project, partnerships, or media, please use the f
     </div>
   </div>
 </form>
+{{< /rawhtml >}}
+
 
 ---
 
