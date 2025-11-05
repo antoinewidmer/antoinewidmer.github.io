@@ -10,7 +10,7 @@ type: "page"
 ---
 
 For enquiries about the IPC4MH project, partnerships, or media, please use the form below.
-
+{{< rawhtml >}}
 <form action="https://usebasin.com/f/5366e3b039fd" method="POST" accept-charset="UTF-8" class="form">
   <!-- Honeypot -->
   <input type="text" name="company" tabindex="-1" autocomplete="off" style="position:absolute;left:-5000px;opacity:0" aria-hidden="true">
@@ -52,7 +52,7 @@ For enquiries about the IPC4MH project, partnerships, or media, please use the f
     </div>
   </div>
 </form>
-
+{{< /rawhtml >}}
 
 
 ---
