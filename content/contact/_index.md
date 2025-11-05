@@ -12,45 +12,48 @@ type: "page"
 For enquiries about the IPC4MH project, partnerships, or media, please use the form below.
 {{< rawhtml >}}
 <form action="https://usebasin.com/f/5366e3b039fd" method="POST" accept-charset="UTF-8" class="form">
-  <!-- Honeypot -->
+
+  <!-- Honeypot field to prevent spam -->
   <input type="text" name="company" tabindex="-1" autocomplete="off" style="position:absolute;left:-5000px;opacity:0" aria-hidden="true">
 
-  <div class="grid" style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
-    <div style="grid-column:span 1;">
-      <label for="name">Name *</label>
-      <input id="name" name="name" type="text" required>
-    </div>
+  <table style="width:100%; border-collapse:separate; border-spacing:0.75rem;">
+    <tr>
+      <td><label for="name">Name *</label></td>
+      <td><input id="name" name="name" type="text" required style="width:100%;"></td>
+    </tr>
 
-    <div style="grid-column:span 1;">
-      <label for="email">Email *</label>
-      <input id="email" name="email" type="email" required>
-    </div>
+    <tr>
+      <td><label for="email">Email *</label></td>
+      <td><input id="email" name="email" type="email" required style="width:100%;"></td>
+    </tr>
 
-    <div style="grid-column:1 / -1;">
-      <label for="subject">Subject</label>
-      <input id="subject" name="subject" type="text">
-    </div>
+    <tr>
+      <td><label for="subject">Subject</label></td>
+      <td><input id="subject" name="subject" type="text" style="width:100%;"></td>
+    </tr>
 
-    <div style="grid-column:1 / -1;">
-      <label for="message">Message *</label>
-      <textarea id="message" name="message" rows="6" required></textarea>
-    </div>
+    <tr>
+      <td style="vertical-align:top;"><label for="message">Message *</label></td>
+      <td><textarea id="message" name="message" rows="6" required style="width:100%;"></textarea></td>
+    </tr>
 
-    <div style="grid-column:1 / -1;display:flex;align-items:flex-start;gap:.5rem;">
-      <input id="consent" name="consent" type="checkbox" required>
-      <label for="consent" style="margin:0;">
-        I consent to IPC4MH processing my data for the sole purpose of answering this enquiry. I understand I can request deletion in accordance with GDPR.
-      </label>
-    </div>
+    <tr>
+      <td colspan="2" style="vertical-align:top;">
+        <input id="consent" name="consent" type="checkbox" required>
+        <label for="consent">
+          I consent to IPC4MH processing my data for the sole purpose of answering this enquiry.
+          I understand I can request deletion in accordance with GDPR.
+        </label>
+      </td>
+    </tr>
 
-    <input type="hidden" name="_subject" value="IPC4MH Contact Form Submission">
-    <!-- Optional redirect -->
-    <!-- <input type="hidden" name="_redirect" value="https://ipc4mh.eu/contact/thanks/"> -->
-
-    <div style="grid-column:1 / -1;">
-      <button type="submit" class="btn btn-primary">Send message</button>
-    </div>
-  </div>
+    <tr>
+      <td colspan="2" style="text-align:right;">
+        <input type="hidden" name="_subject" value="IPC4MH Contact Form Submission">
+        <button type="submit" class="btn btn-primary">Send message</button>
+      </td>
+    </tr>
+  </table>
 </form>
 {{< /rawhtml >}}
 
