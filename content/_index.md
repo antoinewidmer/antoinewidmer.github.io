@@ -12,12 +12,7 @@ sections:
       text: |
         Immersive Prevention Centers for Mental Health
         **Countries:** 🇨🇭 Switzerland · 🇫🇷 France · 🇵🇱 Poland  
-    design:
-      background:
-        color: ""
-        gradient_start: "#4f46e5"
-        gradient_end: "#7c3aed"
-        text_color_light: true
+      align: "center"
 
   - block: hero
     content:
