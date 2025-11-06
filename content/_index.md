@@ -12,7 +12,8 @@ sections:
       text: |
         Immersive Prevention Centers for Mental Health
         **Countries:** 🇨🇭 Switzerland · 🇫🇷 France · 🇵🇱 Poland  
-    align: center
+    design:
+      align: center
 
   - block: hero
     content:
