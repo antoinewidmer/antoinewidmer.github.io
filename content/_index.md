@@ -9,9 +9,7 @@ sections:
     content:
       title: Reimagining Mental Health Prevention through Immersive Technologies
       subtitle: Immersive Prevention Centers for Mental Health
-      text: |
-        Immersive Prevention Centers for Mental Health
-        **Countries:** 🇨🇭 Switzerland · 🇫🇷 France · 🇵🇱 Poland  
+
     design:
       columns: 1
       align: center
