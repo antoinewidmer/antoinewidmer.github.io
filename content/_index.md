@@ -5,7 +5,7 @@ date: 2022-10-24
 type: landing
 
 sections:
-  - block: hero
+  - block: markdown
     content:
       title: Reimagining Mental Health Prevention through Immersive Technologies
       subtitle: Immersive Prevention Centers for Mental Health
