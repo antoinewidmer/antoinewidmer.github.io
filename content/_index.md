@@ -14,6 +14,7 @@ sections:
         **Countries:** 🇨🇭 Switzerland · 🇫🇷 France · 🇵🇱 Poland  
     design:
       align: center
+	  vertical_align: middle
 
   - block: hero
     content:
