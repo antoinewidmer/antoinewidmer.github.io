@@ -10,19 +10,14 @@ sections:
       title: "Reimagining Mental Health Prevention through Immersive Technologies"
       subtitle: "Immersive Prevention Centers for Mental Health"
       text: |
-
-
+        Immersive Prevention Centers for Mental Health
         **Countries:** 🇨🇭 Switzerland · 🇫🇷 France · 🇵🇱 Poland  
-
-      buttons:
-        - text: "About the project"
-          url: "/about/"
-          style: primary
-        - text: "Consortium"
-          url: "/team/"
-          style: outline
-
-
+    design:
+      background:
+        color: ""
+        gradient_start: "#4f46e5"
+        gradient_end: "#7c3aed"
+        text_color_light: true
 
   - block: hero
     content:
