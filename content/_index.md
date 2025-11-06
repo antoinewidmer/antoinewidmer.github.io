@@ -7,10 +7,10 @@ type: landing
 sections:
   - block: hero
     content:
-      title: "Immersive Prevention Centers for Mental Health"
-      subtitle: "A European initiative to make mental-health prevention immersive, accessible, and clinically validated."
+      title: "Reimagining Mental Health Prevention through Immersive Technologies"
+      subtitle: "Immersive Prevention Centers for Mental Health"
       text: |
-        **IPC4MH (2025–2028)** develops and evaluates Metaverse-based prevention centers for mental health, combining **XR/MR**, **AI-driven behavioral analysis**, and **clinical co-design**.
+
 
         **Countries:** 🇨🇭 Switzerland · 🇫🇷 France · 🇵🇱 Poland  
 
@@ -22,9 +22,6 @@ sections:
           url: "/team/"
           style: outline
 
-      image:
-        filename: ipclogo.png
-        alt: "Immersive digital health environment"
 
 
   - block: hero
