@@ -10,8 +10,7 @@ sections:
       title: "**Reimagining Mental Health Prevention through Immersive Technologies**"
       text: "Immersive Prevention Centers for Mental Health"
       announcement:
-        text: "**Countries:** 🇨🇭 Switzerland · 🇫🇷 France · 🇵🇱 Poland"
-		
+        text: "**Countries:** 🇨🇭 Switzerland · 🇫🇷 France · 🇵🇱 Poland"		
   - block: hero
     content:
       # empty title — use explicit empty string
