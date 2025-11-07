@@ -11,9 +11,7 @@ sections:
       text: "Immersive Prevention Centers for Mental Health"
       announcement:
         text: "**Countries:** 🇨🇭 Switzerland · 🇫🇷 France · 🇵🇱 Poland"
-    advanced:
-      css_style: "text-align: center;"
-
+		
   - block: hero
     content:
       # empty title — use explicit empty string
