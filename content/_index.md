@@ -1,6 +1,6 @@
 ---
 # Leave the homepage title empty to use the site title
-title: 
+title: ""
 date: 2022-10-24
 type: landing
 
@@ -10,21 +10,21 @@ sections:
       title: "**Reimagining Mental Health Prevention through Immersive Technologies**"
       text: "Immersive Prevention Centers for Mental Health"
       announcement:
-        text: "**Countries:** 🇨🇭 Switzerland · 🇫🇷 France · 🇵🇱 Poland" 
+        text: "**Countries:** 🇨🇭 Switzerland · 🇫🇷 France · 🇵🇱 Poland"
     advanced:
       css_style: "text-align: center;"
-		
 
   - block: hero
     content:
-      title: |
+      # empty title — use explicit empty string
+      title: ""
       image:
         filename: vrheadset.png
       text: |
         <br>
         
         By combining immersive group sessions, individualized exercises, and interoperable digital infrastructures, IPC4MH seeks to **extend clinical capacity**, **improve accessibility** for vulnerable populations, and **generate robust evidence** on acceptability, usability, and clinical impact across multiple European contexts.
-        
+
   - block: features
     id: quick-facts
     content:
@@ -50,7 +50,7 @@ sections:
           description: "Open PDFs & DOIs"
     design:
       columns: "3"
-      
+
   - block: markdown
     id: value-proposition
     content:
@@ -61,15 +61,13 @@ sections:
         group sessions in social VR with guided home exercises. IPC4MH focuses on **safety,
         accessibility, and evidence**—integrating with established care pathways rather than
         replacing them.
-        
+
   - block: hero
     content:
-      title: |
-        Funding
+      title: "Funding"
       image:
         filename: THCS_Logo.jpg
       text: |
         <br>
         Supported under the THCS Partnership; views expressed are those of the authors.
-
 ---
