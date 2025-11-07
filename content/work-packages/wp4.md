@@ -56,17 +56,6 @@ Throughout WP4, **risk management** will be closely monitored to ensure progress
 to deliver high-quality prototypes that can be reliably used by practitioners and patients in subsequent evaluation phases.  
 The existence of an initial prototype already provides a valuable starting point for this iterative process.
 
----
-
-### Deliverables
-
-| ID | Title | Timeline |
-|----|--------|-----------|
-| D4.1 | Adapted environments | T18 |
-| D4.2 | Polish Junior IPC for Mental Health (V1, V2) | T18, T30 |
-| D4.3 | Swiss Junior IPC for Mental Health (V1, V2) | T18, T30 |
-| D4.4 | French Senior IPC for Mental Health (V1, V2) | T18, T30 |
-| D4.5 | Reports on user evaluations of prototypes | T12, T15, T18, T24, T27 |
 
 ---
 

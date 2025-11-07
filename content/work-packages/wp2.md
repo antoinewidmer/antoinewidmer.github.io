@@ -30,41 +30,6 @@ To achieve this, the WP will:
 
 ---
 
-### Description of Work
-
-All teams will collaborate to define the **common vision and design principles** for IPCs in the Metaverse.  
-The **TECNIS prototype** ([Vigier et al., 2024](https://youtu.be/sdvYOWJwT44)) will serve as a point of departure.
-
-Activities will notably include:
-
-1. Conducting *field studies* in the Metaverse using **TECNIS** and other social VR platforms (e.g., VRChat, Horizon Worlds, Mesh, EngageVR).  
-2. Testing existing environments developed by **C2Care** and **DiverSSity**.  
-3. Writing a document that defines key elements such as economic and health stakeholders, patient and practitioner personas, and representative scenarios and journeys.
-
-Subsequent steps will involve designing IPCs tailored to the selected **young and older populations**.  
-Led by **Nantes Université**, all teams — including partner associations and patient groups — will refine the vision into detailed personas (varying by pathology, needs, and country) and design scenarios reflecting both **secondary** and **tertiary prevention** contexts.  
-
-The designs will describe:
-- The virtual spaces in the Metaverse (welcoming areas, consultation rooms, exercise rooms).  
-- The existing environments to be reused (for juniors: from **DiverSSity** and **C2Care**; for seniors: from **C2Care**).  
-- The web access components for user management and data-driven dashboards.
-
-In parallel, the research teams will define **common evaluation objectives** by drafting evaluation scenarios and protocols.  
-Coherence across all scenarios will be ensured through supervision by the NU postdoctoral researcher and extensive collaboration among all partners.
-
----
-
-### Deliverables
-
-| ID | Title | Month(s) |
-|----|--------|-----------|
-| D2.1 | Vision for IPCs in the Metaverse | M3 |
-| D2.2 | Design documentation for junior IPCs | M6, M12, M18 |
-| D2.3 | Design documentation for senior IPCs | M6, M12, M18 |
-| D2.4 | General evaluation goals | M6 |
-
----
-
 ### Summary
 
 WP2 lays the foundation for the project’s **user-centred design strategy**, establishing a shared vision and framework for immersive prevention centers in the Metaverse.  

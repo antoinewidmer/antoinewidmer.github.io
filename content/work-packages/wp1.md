@@ -22,30 +22,6 @@ WP1 ensures overall coordination, timely completion of project activities, and c
 
 ---
 
-### Description of Work
-
-Project management activities are designed to:
-- Oversee coordination between all project partners and maintain progress tracking toward milestones and deliverables.  
-- Facilitate efficient communication among internal and external stakeholders.  
-- Support administrative, financial, and reporting tasks in accordance with EU funding guidelines.  
-- Ensure ethical integrity and patient engagement through structured stakeholder consultations and oversight.  
-- Integrate FAIR data management principles across all technical and clinical components of the project.
-
----
-
-### Deliverables
-
-| ID | Title | Month |
-|----|--------|--------|
-| D1.1 | Consortium Agreement | M3 |
-| D1.2 | Data Management Plan | M6 |
-| D1.3 | Ethics Management Plan | M12 |
-| D1.4 | Project Report — Year 1 | M12 |
-| D1.5 | Project Report — Year 2 | M24 |
-| D1.6 | Final Report | M36 |
-
----
-
 ### Summary
 
 Through structured coordination, ethical governance, and rigorous data stewardship, WP1 ensures that IPC4MH operates efficiently, transparently, and in full compliance with Horizon Europe standards.
