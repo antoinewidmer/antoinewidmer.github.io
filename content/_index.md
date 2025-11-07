@@ -7,10 +7,13 @@ type: landing
 sections:
   - block: hero
     content:
-      title: "Reimagining Mental Health Prevention through Immersive Technologies"
+      title: "**Reimagining Mental Health Prevention through Immersive Technologies**"
       text: "Immersive Prevention Centers for Mental Health"
       announcement:
-        text: "**Countries:** 🇨🇭 Switzerland · 🇫🇷 France · 🇵🇱 Poland"  
+        text: "**Countries:** 🇨🇭 Switzerland · 🇫🇷 France · 🇵🇱 Poland" 
+    advanced:
+      css_style: "text-align: center;"
+		
 
   - block: hero
     content:
