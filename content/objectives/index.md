@@ -50,21 +50,6 @@ The results will inform long-term operational and business models supporting the
 
 ---
 
-## Key Performance Indicators (KPIs)
-
-The project proposal defines the following indicators and expected outcomes:
-
-| KPI | Description | Target / Verification |
-|------|--------------|-----------------------|
-| **KPI1** | Number of participants engaged in pilots | ≥150 across sites |
-| **KPI2** | Level of engagement and adherence | ≥70% session completion |
-| **KPI3** | Number of clinicians/facilitators trained | ≥40 |
-| **KPI4** | Scientific dissemination outputs | ≥4 peer-reviewed publications, ≥2 open datasets |
-| **KPI5** | Contributions to standards or policy | ≥2 |
-| **KPI6** | Post-project adoption | ≥1 active continuation site |
-
----
-
 ## Alignment with THCS Expected Impacts
 
 IPC4MH directly supports THCS objectives by:
