@@ -14,10 +14,9 @@ sections:
         link:
           text: "Learn more"
           url: "/consortium/"		
-  - block: hero
+  - block: markdown
     content:
-      # empty title — use explicit empty string
-      title: ""
+      title: "Immersive Prevention Centers for Mental Health"
       image:
         filename: vrheadset.png
       text: |
