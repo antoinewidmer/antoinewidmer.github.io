@@ -20,7 +20,7 @@ sections:
         text: "Announcing the release of version 1."
         link:
           text: "Read more"
-          url: "/blog/"
+          url: "/consortium/"
     design:
     #   spacing:
     #     padding: [0, 0, 0, 0]
@@ -29,14 +29,6 @@ sections:
       css_class: "dark"
       background:
         color: "navy"
-        image:
-          # Add your image background to `assets/media/`.
-          filename: bg-triangles.svg
-          filters:
-            brightness: 0.5
-          size: cover
-          position: center
-          parallax: false
   - block: hero
     content:
       title: "**Reimagining Mental Health Prevention through Immersive Technologies**"
