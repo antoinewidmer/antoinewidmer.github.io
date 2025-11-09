@@ -8,7 +8,6 @@ sections:
   - block: hero
     content:
       title: "**Reimagining Mental Health Prevention through Immersive Technologies**"
-      text: "Immersive Prevention Centers for Mental Health"
       announcement:
         text: "**Countries:** 🇨🇭 Switzerland · 🇫🇷 France · 🇵🇱 Poland"	
         link:
