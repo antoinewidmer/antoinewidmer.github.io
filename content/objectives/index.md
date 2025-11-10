@@ -9,19 +9,19 @@ keywords: ["IPC4MH", "objectives", "impacts", "XR", "mental health", "AI", "THCS
 
 IPC4MH pursues the following specific objectives:
 
-**O1 – To establish an evidence-based framework for immersive prevention centres.**  
+**To establish an evidence-based framework for immersive prevention centres.**  
 This objective focuses on identifying user needs, ethical guidelines, and clinical requirements for XR-based mental-health prevention. It includes the analysis of target populations, prevention goals, and evaluation criteria to ensure feasibility, safety, and inclusion.
 
-**O2 – To develop an integrated XR platform for multimodal prevention and monitoring.**  
+**To develop an integrated XR platform for multimodal prevention and monitoring.**  
 This includes designing and implementing a modular technological platform that integrates sensing, XR content, and data analytics for real-time monitoring of user engagement and wellbeing indicators.
 
-**O3 – To design and validate responsible AI models for mental-health support.**  
+**To design and validate responsible AI models for mental-health support.**  
 IPC4MH will train and validate interpretable AI models for affective and behavioural data, enabling personalised feedback, adaptation of preventive exercises, and explainable recommendations, aligned with ethical and GDPR principles.
 
-**O4 – To conduct multi-site pilots addressing different user archetypes.**  
+**To conduct multi-site pilots addressing different user archetypes.**  
 Two pilots will be carried out: one targeting younger users (junior archetype) and one focusing on older adults (senior archetype). Each pilot will assess feasibility, usability, engagement, and effectiveness through validated psychological and behavioural measures.
 
-**O5 – To ensure dissemination, exploitation, and sustainability.**  
+**To ensure dissemination, exploitation, and sustainability.**  
 IPC4MH will deliver open-access materials, training resources, and exploitation strategies to foster long-term sustainability of prevention centres beyond the project duration.
 
 ---
@@ -30,22 +30,22 @@ IPC4MH will deliver open-access materials, training resources, and exploitation 
 
 According to the proposal, IPC4MH will contribute to the following impacts:
 
-**I1 – Improved accessibility of mental-health prevention services.**  
+**Improved accessibility of mental-health prevention services.**  
 By providing XR-based prevention environments deployable in community, educational, and healthcare settings, IPC4MH increases reach and inclusion, particularly for underserved populations.
 
-**I2 – Enhanced engagement and adherence to preventive interventions.**  
+**Enhanced engagement and adherence to preventive interventions.**  
 Through immersive, interactive, and adaptive XR experiences, IPC4MH promotes motivation, emotional regulation, and sustained participation.
 
-**I3 – Strengthened digital capacity and multidisciplinary collaboration.**  
+**Strengthened digital capacity and multidisciplinary collaboration.**  
 The project builds capacity among clinicians, educators, and developers by introducing XR and AI tools for prevention, and fostering interdisciplinary learning across Europe.
 
-**I4 – Scientific innovation in multimodal data and AI for prevention.**  
+**Scientific innovation in multimodal data and AI for prevention.**  
 IPC4MH generates new datasets and methodological advances in affective computing, multimodal sensing, and behaviour analytics applied to preventive mental-health contexts.
 
-**I5 – Contribution to European digital-health policy and standardisation.**  
+**Contribution to European digital-health policy and standardisation.**  
 The project aligns with EU ethical and technical frameworks, contributing to the development of standards for responsible AI, data governance, and interoperability in preventive healthcare.
 
-**I6 – Sustainable and transferable prevention models.**  
+**Sustainable and transferable prevention models.**  
 The results will inform long-term operational and business models supporting the replication of immersive prevention centres across EU member states.
 
 ---
