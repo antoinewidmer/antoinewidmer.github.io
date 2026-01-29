@@ -26,12 +26,14 @@ sections:
   - block: markdown
     content:
       text: |
+        <div style="display: flex; justify-content: center;">
         <iframe width="560" height="315" 
           src="https://www.youtube.com/embed/roRyGCQK_pw" 
           frameborder="0" 
           allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
           allowfullscreen>
         </iframe>
+        </div>
   - block: features
     id: quick-facts
     content:
