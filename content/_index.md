@@ -22,7 +22,7 @@ sections:
         <br>
         
         By combining immersive group sessions, individualized exercises, and interoperable digital infrastructures, IPC4MH seeks to **extend clinical capacity**, **improve accessibility** for vulnerable populations, and **generate robust evidence** on acceptability, usability, and clinical impact across multiple European contexts.
-  sections:
+
   - block: markdown
     content:
       text: |
